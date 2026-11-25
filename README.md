@@ -22,7 +22,7 @@ Aplicación multiplataforma de gestión de tareas desarrollada con Python y Flet
 
 ## Descargas
 
-Disponible para Android (.apk) y Windows (.exe) en el apartado [Releases](../../releases)..
+Disponible para Android (.apk) y Windows (.exe) en el apartado [Releases](../../releases).
 
 ## Código fuente
 
