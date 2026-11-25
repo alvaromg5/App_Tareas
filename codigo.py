@@ -1,4 +1,4 @@
-# PASO 8 - App final: contador de tareas pendientes
+# App final: contador de tareas pendientes
 # Objetivo: mantener un dato derivado (el contador) sincronizado con el estado.
 import flet as ft
 
